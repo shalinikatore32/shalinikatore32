@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Shalini Katore</h1>
 <h3 align="center">🚀 Full Stack Developer (MERN)</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
+<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"/>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinikatore32&label=Profile%20views&color=0e75b6&style=flat" alt="shalinikatore32" /> </p>
 
