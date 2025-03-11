@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinikatore32&label=Profile%20views&color=0e75b6&style=flat" alt="shalinikatore32" /> </p>
 
 ✨ **"Turning ideas into reality through code."**  
-🔭 Currently building **adaptive learning platforms**!  
 💬 Ask me about **MERN stack.**  
 📫 Reach me at **shalinikatore32@gmail.com**  
 
