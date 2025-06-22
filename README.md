@@ -74,5 +74,6 @@ If you like what I do, feel free to ⭐ some of my repositories or reach out for
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
 </p>
+
