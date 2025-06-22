@@ -1,54 +1,78 @@
-<h1 align="center">Hi there👋, I'm Shalini Katore</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN)</h3>
+<h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Shalini Katore</span></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalinikatore32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinikatore32&label=Profile%20views&color=0e75b6&style=flat" alt="shalinikatore32" /> </p>
-
-✨ **"Turning ideas into reality through code."**  
-💬 Ask me about **MERN stack.**  
-📫 Reach me at **shalinikatore32@gmail.com**  
+<p align="center">✨ <em>"Turning ideas into reality through code."</em></p>
 
 ---
 
-<h3 align="left">🚀 Connect with me:</h3>  
+### 💫 About Me  
+- 💻 Passionate about building **dynamic web applications**  
+- 🌱 Currently exploring **TypeScript** and **Next.js**  
+- 💬 Ask me about anything related to **MERN stack**  
+- 📫 Reach me at **shalinikatore32@gmail.com**  
+- 🧠 Always learning, always evolving  
+
+---
+
+### 🌐 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/shalinikatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shalinikatore25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shalinikatore32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shalinikatore" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="30" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/shalinikatore32" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>  
-<p align="left"> 
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git" />
 </p>
 
 ---
 
-<h3 align="left">✨ Featured Projects:</h3>
-- 🔹 **Task Manager App** – A collaborative task management platform with team features.  
-- 🔹 **eCommerce Platform** – Book-selling platform with Stripe integration.  
-- 🔹 **Weather App** – Real-time weather updates using Weather API.  
+### ✨ Featured Projects
+
+🔹 **Real-Time Chat App**  
+A responsive MERN-based messaging platform with real-time communication powered by **Socket.io**, featuring authentication, user search, group chat, notifications, and dark mode support. Built using **React.js**, **Node.js**, **Express**, **MongoDB**, and **Chakra UI**.
+
+🔹 **Task Manager App**  
+A collaborative task platform with authentication, team creation, notifications, and real-time updates.
+
+🔹 **eCommerce Platform**  
+Online book-selling site built with Stripe integration, JWT auth, dynamic listings, and a seamless UX.
+
+🔹 **Weather App**  
+React-based app using Weather API to display real-time weather data with sleek design.
 
 ---
 
-### 📈 GitHub Stats:  
-<p align="left">  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalinikatore32&show_icons=true&locale=en&layout=compact" alt="shalinikatore32" />  
-</p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&locale=en" alt="shalinikatore32" /></p>
+### 📈 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=radical" alt="Top Languages" width="42%" />
+</div>
 
 ---
 
-🎯 **Let's build the future with code!**  
-⭐ **If you like what you see, feel free to star ⭐ some projects or reach out for collaboration!**  
+### 🌟 Let's Connect & Collaborate  
+> **"Code is not just code, it's a story that solves problems!"**  
+If you like what I do, feel free to ⭐ some of my repositories or reach out for collaboration!
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+</p>
