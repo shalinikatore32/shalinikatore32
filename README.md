@@ -1,4 +1,4 @@
-<img src="banner.png" alt="GitHub Banner" style="width:100%;"/>
+<img src="banner_github.png" alt="GitHub Banner" style="width:100%;"/>
 
 <h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Shalini Katore</span></h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast</h3>
