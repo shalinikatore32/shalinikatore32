@@ -1,21 +1,19 @@
 <!-- 🔥 GitHub Banner -->
-<p align="center">
-  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-</p>
-
-<h1 align="center">👋 Hi there, I'm <span style="color:#00ADB5;">Shalini Katore</span></h1>
-<h3 align="center">🚀 Student Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shalini Katore</h1>
+<h3 align="center">Full Stack Developer | MERN | Next.js | FastAPI(Python) | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalinikatore32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-47A248?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
 </p>
 
-<p align="center"><em>✨ "Turning ideas into reality through code."</em></p>
 
 ---
 
 ### 💫 About Me
-- 🎓 Final-year B.Tech student | Passionate Full Stack Developer  
+- 🎓 Final-year B.Tech student | Passionate Full Stack Developer(React.js, Next.js, Python(FastAPI), MongoDB, MySQL) 
 - 💻 Building dynamic and scalable web applications  
 - 🌱 Currently exploring **TypeScript**, **Next.js**, and **Socket.io**  
 - 💬 Ask me anything related to the **MERN stack**  
@@ -44,28 +42,23 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=next,react,python,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
 </p>
 
 ---
 
 ### 💼 Featured Projects
 
+🔹 **Real-Time API Monitoring and Alert System**
+> A robust monitoring platform that tracks API uptime, performance, and failures in real time.
+> It features automated email alerts for downtime or abnormal response patterns, request/response logging, status tracking, and a clean dashboard for visualizing API health
+> Built with secure JWT-based authentication and efficient background monitoring workflows.
+> 🛠️ Tech Stack: Next.js, ShadCN UI, FastAPI, MongoDB, JWT Authentication, Email Alerts
+
+
 🔹 **Real-Time Chat App**  
 > A full-stack messaging platform built with **Socket.io**, supporting real-time 1-on-1 and group messaging, authentication, dark mode, and user search.  
 > 🛠️ Stack: React.js, Node.js, Express, MongoDB, Chakra UI
-
-🔹 **Task Manager App**  
-> Team-based task platform with secure login, user management, and real-time updates.  
-> 🛠️ MERN Stack
-
-🔹 **eCommerce Platform**  
-> Book-selling platform with **Stripe integration**, search, filtering, and JWT authentication.  
-> 🛠️ React, Node.js, Express, MongoDB
-
-🔹 **Weather App**  
-> Fetches real-time weather using a public Weather API, with dynamic UI.  
-> 🛠️ React.js
 
 ---
 
