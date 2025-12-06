@@ -1,6 +1,7 @@
 <!-- 🌟 GitHub Profile Banner -->
 <h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Shalini Katore — Full Stack Developer | MERN | Next.js | FastAPI (Python) | Machine Learning Enthusiast</h3>
+<h3 align="center"><strong>I'm Shalini Katore — Full Stack Developer specializing in MERN, Next.js, FastAPI (Python), and Machine Learning</strong></h3>
+
 
 ###
 
@@ -75,22 +76,6 @@
 
 ---
 
-## 📈 GitHub Analytics  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shalinikatore32&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=shalinikatore32&theme=dracula&row=1&margin-w=10&margin-h=10" height="150" />
-</div>
-
----
-
-## 🟡 Contribution Graph — Pacman Style  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 🌟 Let's Collaborate!  
 > 🚀 I'm open to **internships, collaborations, and open-source contributions**.  
