@@ -4,27 +4,23 @@
 
 ###
 
-<!-- 🚀 Tech Icons Banner -->
+<!-- 🚀 Tech Icons Banner (Only the technologies YOU actually use) -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
 </div>
 
 ---
@@ -32,9 +28,9 @@
 ## 💫 About Me  
 - 🎓 Final-year **B.Tech student**  
 - 💻 Passionate **Full Stack Developer** (React.js, Next.js, FastAPI, MongoDB, MySQL)  
-- 🔍 Exploring **TypeScript**, **Next.js**, **Socket.io**, and **API observability systems**  
-- 🧠 Interested in **AI + Web Development + Real-Time Systems**  
-- 💬 Ask me anything about the **MERN stack or API architectures**  
+- 🔍 Currently exploring **TypeScript**, **Next.js**, **Socket.io**  
+- 🧠 Interested in **AI + Real-Time Systems + Scalable Architecture**  
+- 💬 Ask me anything about **MERN stack or API architectures**  
 - 📧 Reach me at: **shalinikatore32@gmail.com**
 
 ---
