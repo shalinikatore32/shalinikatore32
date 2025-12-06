@@ -1,82 +1,108 @@
-<!-- 🔥 GitHub Banner -->
-<h1 align="center">Hi 👋, I'm Shalini Katore</h1>
-<h3 align="center">Full Stack Developer | MERN | Next.js | FastAPI(Python) | Machine Learning Enthusiast</h3>
+<!-- 🌟 GitHub Profile Banner -->
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h3 align="center">I'm Shalini Katore — Full Stack Developer | MERN | Next.js | FastAPI (Python) | Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-47A248?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge" />
-</p>
+###
 
-
----
-
-### 💫 About Me
-- 🎓 Final-year B.Tech student | Passionate Full Stack Developer(React.js, Next.js, Python(FastAPI), MongoDB, MySQL) 
-- 💻 Building dynamic and scalable web applications  
-- 🌱 Currently exploring **TypeScript**, **Next.js**, and **Socket.io**  
-- 💬 Ask me anything related to the **MERN stack**  
-- 📫 Reach me at: **shalinikatore32@gmail.com**  
-- 🧠 Lifelong learner and problem solver
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/shalinikatore" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" height="30" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/shalinikatore32" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" alt="GFG" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=next,react,python,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
-</p>
-
----
-
-### 💼 Featured Projects
-
-🔹 **Real-Time API Monitoring and Alert System**
-> A robust monitoring platform that tracks API uptime, performance, and failures in real time.
-> It features automated email alerts for downtime or abnormal response patterns, request/response logging, status tracking, and a clean dashboard for visualizing API health
-> Built with secure JWT-based authentication and efficient background monitoring workflows.
-> 🛠️ Tech Stack: Next.js, ShadCN UI, FastAPI, MongoDB, JWT Authentication, Email Alerts
-
-
-🔹 **Real-Time Chat App**  
-> A full-stack messaging platform built with **Socket.io**, supporting real-time 1-on-1 and group messaging, authentication, dark mode, and user search.  
-> 🛠️ Stack: React.js, Node.js, Express, MongoDB, Chakra UI
-
----
-
-### 📈 GitHub Stats
+<!-- 🚀 Tech Icons Banner -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=radical" alt="Top Languages" width="42%" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
 </div>
 
 ---
 
-### 🌟 Let's Collaborate!
-> 💬 I'm open to **internships, collaborations, and side projects**.  
-> If you like my work, feel free to ⭐ some repos or connect with me!
+## 💫 About Me  
+- 🎓 Final-year **B.Tech student**  
+- 💻 Passionate **Full Stack Developer** (React.js, Next.js, FastAPI, MongoDB, MySQL)  
+- 🔍 Exploring **TypeScript**, **Next.js**, **Socket.io**, and **API observability systems**  
+- 🧠 Interested in **AI + Web Development + Real-Time Systems**  
+- 💬 Ask me anything about the **MERN stack or API architectures**  
+- 📧 Reach me at: **shalinikatore32@gmail.com**
+
+---
+
+## 🌐 Connect with Me  
+<div align="center">
+  <a href="https://linkedin.com/in/shalinikatore" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://leetcode.com/shalinikatore32" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=000000&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&color=0F9D58&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=next,react,python,fastapi,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
+</div>
+
+---
+
+## 💼 Featured Projects  
+
+### 🔹 Real-Time API Monitoring & Alert System  
+> A production-ready platform that monitors API uptime, latency, error rates, and performance in **real time**.  
+> Includes **email alerts**, anomaly detection, request/response logging, and a dashboard powered by Next.js & ShadCN UI.  
+> 🛠️ **Tech Stack:** Next.js, ShadCN UI, FastAPI, MongoDB, JWT Auth, Email Alerts  
+
+---
+
+### 🔹 Real-Time Chat App  
+> A full-stack chat platform supporting **real-time messaging**, group chats, user search, and dark mode.  
+> 🛠️ **Tech Stack:** React.js, Node.js, Express, MongoDB, Socket.io, Chakra UI  
+
+---
+
+## 📈 GitHub Analytics  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shalinikatore32&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=shalinikatore32&theme=dracula&row=1&margin-w=10&margin-h=10" height="150" />
+</div>
+
+---
+
+## 🟡 Contribution Graph — Pacman Style  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌟 Let's Collaborate!  
+> 🚀 I'm open to **internships, collaborations, and open-source contributions**.  
+> ⭐ If you like my work, feel free to star my repositories!
 
 ---
 
 <!-- ✨ Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Happy+Coding!;Let's+Build+Together!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Happy+Coding!;Let's+Build+Something+Amazing!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
 </p>
