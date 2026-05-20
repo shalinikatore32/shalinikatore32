@@ -1,89 +1,70 @@
-<!-- 🌟 GitHub Profile Banner -->
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center"><strong>I'm Shalini Katore — Full Stack Developer specializing in MERN, Next.js, FastAPI (Python), and Machine Learning</strong></h3>
+# 👋 Hi, I'm Shalini Katore
 
+### **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-###
-
-<!-- 🚀 Tech Icons Banner (Only the technologies YOU actually use) -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-</div>
+I am an Undergraduate Computer Science student driven by the challenge of building **scalable, product-centric solutions**. My work bridges the gap between complex AI research and high-performance web applications, focusing on creating seamless user experiences with robust backend architectures.
 
 ---
 
-## 💫 About Me  
-- 🎓 Final-year **B.Tech student**  
-- 💻 Passionate **Full Stack Developer** (React.js, Next.js, FastAPI, MongoDB, MySQL)  
-- 🔍 Currently exploring **TypeScript**, **Next.js**, **Socket.io**  
-- 🧠 Interested in **AI + Real-Time Systems + Scalable Architecture**  
-- 💬 Ask me anything about **MERN stack or API architectures**  
-- 📧 Reach me at: **shalinikatore32@gmail.com**
+### 🚀 **Quick Overview**
+
+- 🔭 **Current Focus**: Scaling AI-driven health-tech applications and real-time monitoring systems.
+- 💡 **Key Interests**: Distributed Systems, Computer Vision, and Full-Stack Performance Optimization.
+- 🎓 **Education**: Pursuing B.Tech in Computer Science and Engineering.
+- 🏗️ **Architecting**: Bridging Python-based AI backends with modern TypeScript/Next.js frontends.
 
 ---
 
-## 🌐 Connect with Me  
-<div align="center">
-  <a href="https://linkedin.com/in/shalinikatore" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://leetcode.com/shalinikatore32" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=000000&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://www.hackerrank.com/shalinikatore25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shalinikvprn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GFG&logo=geeksforgeeks&color=0F9D58&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
+### 🛠️ **Tech Stack**
+
+**Languages & Core**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Web Development**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI & Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,python,fastapi,nodejs,express,mongodb,js,ts,java,git,github,html,css" />
-</div>
+### 🌟 **Featured Projects**
+
+#### [**ThermalAI: Real-Time Stress Detection**](https://github.com/shalinikatore32/thermal-image-stress-detection-final)
+*   **Problem**: Physiological stress is often invisible until it impacts health.
+*   **Solution**: A full-stack system using **FastAPI** and **Next.js** that analyzes thermal facial imaging via **CNNs** to detect stress levels.
+*   **Key Tech**: PyTorch, Grad-CAM (XAI), TypeScript, OpenCV.
+
+#### [**Disaster Relief Coordination Platform**](https://github.com/shalinikatore32/disaster-response-relief-coordination-platform)
+*   A robust platform designed to streamline communication and resource allocation during emergencies.
+*   Built with **TypeScript** and **Next.js** for real-time updates and high-concurrency handling.
+
+#### [**Real-Time API Monitoring Tool**](https://github.com/shalinikatore32/realtime-api-monitoring)
+*   A lightweight dashboard for tracking API health, response times, and error rates in real-time.
+*   Focuses on observability and performance metrics.
 
 ---
 
-## 💼 Featured Projects  
+### 📊 **GitHub Stats**
 
-### 🔹 Real-Time API Monitoring & Alert System  
-> A production-ready platform that monitors API uptime, latency, error rates, and performance in **real time**.  
-> Includes **email alerts**, anomaly detection, request/response logging, and a dashboard powered by Next.js & ShadCN UI.  
-> 🛠️ **Tech Stack:** Next.js, ShadCN UI, FastAPI, MongoDB, JWT Auth, Email Alerts  
-
----
-
-### 🔹 Real-Time Chat App  
-> A full-stack chat platform supporting **real-time messaging**, group chats, user search, and dark mode.  
-> 🛠️ **Tech Stack:** React.js, Node.js, Express, MongoDB, Socket.io, Chakra UI  
-
----
-
-
-## 🌟 Let's Collaborate!  
-> 🚀 I'm open to **internships, collaborations, and open-source contributions**.  
-> ⭐ If you like my work, feel free to star my repositories!
-
----
-
-<!-- ✨ Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Happy+Coding!;Let's+Build+Something+Amazing!;Thank+You+for+Visiting+💙" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=radical&hide_border=true" alt="Shalini's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 **Connect with Me**
+
+- **LinkedIn**: [in/shalinikatore](https://linkedin.com/in/shalinikatore)
+- **Portfolio**: [shalinikatore.com](https://github.com/shalinikatore32/developer-portfolio)
+- **Email**: [shalinikatore@gmail.com](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  <i>"Building software that solves real-world problems, one commit at a time."</i>
 </p>
