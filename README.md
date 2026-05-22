@@ -108,9 +108,9 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=shalinikatore32&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -118,7 +118,7 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -134,11 +134,22 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 ---
 
-# 📅 Contribution Calendar
+# 📅 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/SHALINIKATORE32" alt="GitHub Contribution Chart"/>
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=shalinikatore32&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
+  width="95%"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://ghchart.rshah.org/58a6ff/shalinikatore32" 
+  alt="GitHub Contribution Graph" 
+  width="95%"
+/>
 
 </div>
 
