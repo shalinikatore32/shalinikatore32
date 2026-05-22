@@ -103,14 +103,19 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 `Node.js` `Next.js` `TypeScript` `Monitoring Systems` `Performance Analytics`
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img 
+  width="49%" 
+  src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=1800" 
+/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=shalinikatore32&theme=tokyonight&hide_border=true" />
+<img 
+  width="49%" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=shalinikatore32&theme=github-dark-blue&hide_border=true" 
+/>
 
 </div>
 
@@ -118,7 +123,10 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+  width="42%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
+/>
 
 </div>
 
