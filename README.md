@@ -1,121 +1,173 @@
-# 👋 Hi, I'm Shalini Katore
+<h1 align="center">Hi 👋, I'm Shalini Katore</h1>
 
-### **Software Engineer | Full-Stack Developer | AI Enthusiast**
+<h3 align="center">
+Software Engineer • Full-Stack Developer • AI Enthusiast
+</h3>
 
-I am an Undergraduate Computer Science student driven by the challenge of building **scalable, product-centric solutions**. My work bridges the gap between complex AI research and high-performance web applications, focusing on creating seamless user experiences with robust backend architectures.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Scalable+Applications;MERN+Stack+%7C+Next.js+%7C+FastAPI" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHALINIKATORE32&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 **Quick Overview**
+## 🚀 About Me
 
-- 🔭 **Current Focus**: Scaling AI-driven health-tech applications and real-time monitoring systems.
-- 💡 **Key Interests**: Distributed Systems, Computer Vision, and Full-Stack Performance Optimization.
-- 🎓 **Education**: Pursuing B.Tech in Computer Science and Engineering.
-- 🏗️ **Architecting**: Bridging Python-based AI backends with modern TypeScript/Next.js frontends.
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Full-Stack Development & Scalable Systems
+- 🤖 Exploring AI, Computer Vision & Deep Learning
+- 🌐 Building modern web applications with clean architecture
+- ⚡ Interested in Backend Engineering & System Design
+- 🚀 Focused on creating impactful real-world products
 
 ---
 
-### 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-**Languages & Core**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 💻 Languages & Core
 
-**Web Development**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**AI & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-## 🛠️ Tools & DevOps  
+### 🌐 Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+---
+
+### 🤖 AI & Computer Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
-#### 🔥 [ThermalAI: Real-Time Stress Detection](https://github.com/shalinikatore32/thermal-image-stress-detection-final)
+## 🔥 [ThermalAI: Real-Time Stress Detection](https://github.com/shalinikatore32/thermal-image-stress-detection-final)
+
 - Developed an AI-powered healthcare system that analyzes thermal facial imaging to detect physiological stress patterns in real time.
 - Built a full-stack architecture using **FastAPI** and **Next.js**, enabling seamless communication between the ML backend and interactive frontend dashboard.
-- Implemented **CNN-based deep learning models** with **PyTorch** for accurate stress classification and integrated **Grad-CAM Explainable AI (XAI)** to visualize model decision-making.
+- Implemented CNN-based deep learning models with **PyTorch** for accurate stress classification and integrated **Grad-CAM Explainable AI (XAI)** to visualize model decision-making.
 - Optimized image preprocessing and thermal data handling using **OpenCV**, improving inference performance and reliability for real-world usage.
-- **Key Tech:** PyTorch, FastAPI, Next.js, TypeScript, OpenCV, Grad-CAM, Deep Learning.
+
+### ⚡ Tech Used
+`PyTorch` `FastAPI` `Next.js` `TypeScript` `OpenCV` `Deep Learning`
 
 ---
 
-#### 🌍 [Disaster Relief Coordination Platform](https://github.com/shalinikatore32/disaster-response-relief-coordination-platform)
+## 🌍 [Disaster Relief Coordination Platform](https://github.com/shalinikatore32/disaster-response-relief-coordination-platform)
+
 - Engineered a scalable disaster management platform focused on improving emergency communication, volunteer coordination, and resource allocation during crisis situations.
 - Designed a responsive and real-time interface using **Next.js** and **TypeScript**, allowing faster reporting and tracking of emergency requests.
 - Implemented efficient data flow and high-concurrency handling to support large-scale operations during disaster scenarios.
 - Focused on reliability, accessibility, and user-centric workflows to ensure rapid coordination between affected communities and relief teams.
-- **Key Tech:** Next.js, TypeScript, Real-Time Systems, API Integration, Responsive UI.
+
+### ⚡ Tech Used
+`Next.js` `TypeScript` `API Integration` `Real-Time Systems`
 
 ---
 
-#### 📊 [Real-Time API Monitoring Tool](https://github.com/shalinikatore32/realtime-api-monitoring)
+## 📊 [Real-Time API Monitoring Tool](https://github.com/shalinikatore32/realtime-api-monitoring)
+
 - Built a lightweight observability dashboard for monitoring API uptime, response latency, request throughput, and error rates in real time.
 - Developed features for performance tracking, health status visualization, and failure detection to improve backend reliability and debugging efficiency.
 - Designed an intuitive analytics dashboard to provide developers with actionable insights into API behavior and system stability.
 - Focused on scalable monitoring architecture and efficient metric handling for modern backend services.
-- **Key Tech:** Node.js, Next.js, TypeScript, API Monitoring, Performance Analytics, Real-Time Dashboards.
+
+### ⚡ Tech Used
+`Node.js` `Next.js` `TypeScript` `Monitoring Systems` `Performance Analytics`
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180em" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180em" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
-    height="180em" 
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SHALINIKATORE32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/SHALINIKATORE32" alt="GitHub Contribution Chart"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shalinikatore" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shalinikatore32@gmail.com">
+<img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SHALINIKATORE32">
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/shalinikatore32/developer-portfolio">
+<img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=SHALINIKATORE32&theme=tokyonight&no-frame=true&row=1&column=6" 
-  />
-</p>
+### 💡 *"Building software that solves real-world problems, one commit at a time."*
 
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SHALINIKATORE32&theme=tokyo-night&hide_border=true" 
-  />
-</p>
----
-
-### 📫 **Connect with Me**
-
-- **LinkedIn**: [in/shalinikatore](https://linkedin.com/in/shalinikatore)
-- **Portfolio**: [shalinikatore.com](https://github.com/shalinikatore32/developer-portfolio)
-- **Email**: [shalinikatore32@gmail.com](mailto:shalinikatore32@gmail.com)
-
----
-
-<p align="center">
-  <i>"Building software that solves real-world problems, one commit at a time."</i>
-</p>
+</div>
