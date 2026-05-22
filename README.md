@@ -139,14 +139,7 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 <div align="center">
 
 <img 
-  src="https://github-contributor-stats.vercel.app/api?username=shalinikatore32&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-  width="95%"
-/>
-
-<br/><br/>
-
-<img 
-  src="https://ghchart.rshah.org/58a6ff/shalinikatore32" 
+  src="https://ghchart.rshah.org/00ff00/shalinikatore32" 
   alt="GitHub Contribution Graph" 
   width="95%"
 />
