@@ -66,10 +66,46 @@ I am an Undergraduate Computer Science student driven by the challenge of buildi
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 GitHub Stats  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180em" 
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180em" 
+  />
+</p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" 
+    height="180em" 
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SHALINIKATORE32&theme=tokyonight&no-frame=true&row=1&column=6" 
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SHALINIKATORE32&theme=tokyo-night&hide_border=true" 
+  />
+</p>
 ---
 
 ### 📫 **Connect with Me**
