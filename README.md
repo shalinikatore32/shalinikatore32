@@ -37,20 +37,32 @@ I am an Undergraduate Computer Science student driven by the challenge of buildi
 
 ---
 
-### 🌟 **Featured Projects**
+### 🌟 Featured Projects
 
-#### [**ThermalAI: Real-Time Stress Detection**](https://github.com/shalinikatore32/thermal-image-stress-detection-final)
-*   **Problem**: Physiological stress is often invisible until it impacts health.
-*   **Solution**: A full-stack system using **FastAPI** and **Next.js** that analyzes thermal facial imaging via **CNNs** to detect stress levels.
-*   **Key Tech**: PyTorch, Grad-CAM (XAI), TypeScript, OpenCV.
+#### 🔥 [ThermalAI: Real-Time Stress Detection](https://github.com/shalinikatore32/thermal-image-stress-detection-final)
+- Developed an AI-powered healthcare system that analyzes thermal facial imaging to detect physiological stress patterns in real time.
+- Built a full-stack architecture using **FastAPI** and **Next.js**, enabling seamless communication between the ML backend and interactive frontend dashboard.
+- Implemented **CNN-based deep learning models** with **PyTorch** for accurate stress classification and integrated **Grad-CAM Explainable AI (XAI)** to visualize model decision-making.
+- Optimized image preprocessing and thermal data handling using **OpenCV**, improving inference performance and reliability for real-world usage.
+- **Key Tech:** PyTorch, FastAPI, Next.js, TypeScript, OpenCV, Grad-CAM, Deep Learning.
 
-#### [**Disaster Relief Coordination Platform**](https://github.com/shalinikatore32/disaster-response-relief-coordination-platform)
-*   A robust platform designed to streamline communication and resource allocation during emergencies.
-*   Built with **TypeScript** and **Next.js** for real-time updates and high-concurrency handling.
+---
 
-#### [**Real-Time API Monitoring Tool**](https://github.com/shalinikatore32/realtime-api-monitoring)
-*   A lightweight dashboard for tracking API health, response times, and error rates in real-time.
-*   Focuses on observability and performance metrics.
+#### 🌍 [Disaster Relief Coordination Platform](https://github.com/shalinikatore32/disaster-response-relief-coordination-platform)
+- Engineered a scalable disaster management platform focused on improving emergency communication, volunteer coordination, and resource allocation during crisis situations.
+- Designed a responsive and real-time interface using **Next.js** and **TypeScript**, allowing faster reporting and tracking of emergency requests.
+- Implemented efficient data flow and high-concurrency handling to support large-scale operations during disaster scenarios.
+- Focused on reliability, accessibility, and user-centric workflows to ensure rapid coordination between affected communities and relief teams.
+- **Key Tech:** Next.js, TypeScript, Real-Time Systems, API Integration, Responsive UI.
+
+---
+
+#### 📊 [Real-Time API Monitoring Tool](https://github.com/shalinikatore32/realtime-api-monitoring)
+- Built a lightweight observability dashboard for monitoring API uptime, response latency, request throughput, and error rates in real time.
+- Developed features for performance tracking, health status visualization, and failure detection to improve backend reliability and debugging efficiency.
+- Designed an intuitive analytics dashboard to provide developers with actionable insights into API behavior and system stability.
+- Focused on scalable monitoring architecture and efficient metric handling for modern backend services.
+- **Key Tech:** Node.js, Next.js, TypeScript, API Monitoring, Performance Analytics, Real-Time Dashboards.
 
 ---
 
