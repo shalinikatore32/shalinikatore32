@@ -107,10 +107,10 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 <div align="center">
 
-<img 
+<!-- <img 
   width="49%" 
   src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=1800" 
-/>
+/> -->
 
 <img 
   width="49%" 
@@ -121,14 +121,14 @@ Software Engineer • Full-Stack Developer • AI Enthusiast
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img 
   width="42%" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
 />
 
-</div>
+</div> -->
 
 ---
 
