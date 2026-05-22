@@ -50,10 +50,7 @@ I am an Undergraduate Computer Science student driven by the challenge of buildi
 
 ### 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalinikatore32&show_icons=true&theme=radical&hide_border=true" alt="Shalini's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinikatore32&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SHALINIKATORE32&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHALINIKATORE32&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHALINIKATORE32&layout=compact&theme=tokyonight" /> </p>
 
 ---
 
@@ -61,7 +58,7 @@ I am an Undergraduate Computer Science student driven by the challenge of buildi
 
 - **LinkedIn**: [in/shalinikatore](https://linkedin.com/in/shalinikatore)
 - **Portfolio**: [shalinikatore.com](https://github.com/shalinikatore32/developer-portfolio)
-- **Email**: [shalinikatore@gmail.com](mailto:your-email@example.com)
+- **Email**: [shalinikatore32@gmail.com](mailto:shalinikatore32@gmail.com)
 
 ---
 
